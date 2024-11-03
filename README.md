@@ -1,6 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# How to read music sheet
 
-To start the slide show:
+This presentation is an introduction to Music Sheet 101, a project aimed at helping musicians learn and practice reading sheet music. It provides interactive slides and exercises to improve your music reading skills.
+
+## How to run?
 
 - `npm install`
 - `npm run dev`
@@ -8,4 +10,6 @@ To start the slide show:
 
 Edit the [slides.md](./slides.md) to see the changes.
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+## Acknowledgements
+
+- [Slidev](https://sli.dev/).
